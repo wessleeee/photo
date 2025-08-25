@@ -1,0 +1,10 @@
+---
+layout: post
+title: "旅行摄影合集"  # 你的文章标题
+author: 你的名字
+categories: 摄影  # 分类名称
+tags: [风景, 旅行]  # 标签
+image: 你的图片文件名.jpg  # 刚才上传到assets/img的图片文件名
+---
+
+这里写对这组摄影作品的描述文字...
